@@ -3,7 +3,6 @@ package data;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 
-
 @AllArgsConstructor
 @Data
 public class RegistrationData {
